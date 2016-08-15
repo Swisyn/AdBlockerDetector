@@ -1,4 +1,5 @@
-# AdBlockerDetector
+<h1 align="center">AdBlockerDetector</h1>
+<h4 align="center">Android Library</h4>
 
 Many ad blockers exist on Android, this is a real problem for developers that rely on ad incomes.
 
