@@ -29,7 +29,7 @@ dependencies {
 public void checkAdBlocker()
 {
     // Asynchronous detection in a background thread
-    new AdBlockersDetector(this).detectAdBlockers(new AdBlockersDetector.Callback()
+    new AdBlockersDetector(this).detectAdBlockers(new Constants.AdBlockerCallback()
     {
         @Override
         public void onResult(boolean adBlockerFound, Info info)
