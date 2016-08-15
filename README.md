@@ -1,7 +1,5 @@
 # AdBlockerDetector
 
-= Project overview =
-
 Many ad blockers exist on Android, this is a real problem for developers that rely on ad incomes.
 
 This project proposes an open source library that can detect most of ad blockers.
@@ -27,6 +25,7 @@ dependencies {
 ```
 
 # Simple example
+```
 public void checkAdBlocker()
 {
     // Asynchronous detection in a background thread
@@ -42,7 +41,7 @@ public void checkAdBlocker()
         }   
     });
 }
-
+```
 The method checkAdBlocker() should be called in an Handler, by a delayed message sent in onCreate().
 
 # Licence
