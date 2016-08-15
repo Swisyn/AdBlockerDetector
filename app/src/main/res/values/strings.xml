@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adblockdetector.dialog_title">Ad blocker detection</string>
+    <string name="adblockdetector.dialog_message"><![CDATA[
+        An <b>ad blocker</b> has been detected on your device.<br>
+        If you don\'t understand why you get this message, please feel free to contact us.<br>
+        <br>
+        Development of this application is supported by advertising, so please uninstall your ad blocker in order to use it.<br>
+        <br>   
+    ]]></string>
+    <string name="adblockdetector.dialog_message_other"><![CDATA[
+        Alternatively, please click on the <b>%s</b> button to use this application without ads.
+    ]]></string>
+</resources>
