@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a target="_blank" href="https://android-arsenal.com/api?level=10"><img src="https://img.shields.io/badge/API-8%2B-orange.svg"></a>
+  <a target="_blank" href="https://android-arsenal.com/api?level=10"><img src="https://img.shields.io/badge/API-10%2B-orange.svg"></a>
  
   <a target="_blank" href="http://android-arsenal.com/details/1/4188"><img src="https://img.shields.io/badge/Android%20Arsenal-AdBlockerDetector-blue.svg"></a>
  
