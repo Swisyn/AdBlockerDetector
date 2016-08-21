@@ -1,6 +1,15 @@
 <h1 align="center">AdBlockerDetector</h1>
 <h4 align="center">Android Library</h4>
 
+
+<p align="center">
+  <a target="_blank" href="https://android-arsenal.com/api?level=10"><img src="https://img.shields.io/badge/API-8%2B-orange.svg"></a>
+ 
+  <a target="_blank" href="http://android-arsenal.com/details/1/4188"><img src="https://img.shields.io/badge/Android%20Arsenal-AdBlockerDetector-blue.svg"></a>
+ 
+</p>
+
+
 Many ad blockers exist on Android, this is a real problem for developers that rely on ad incomes.
 
 This project proposes an open source library that can detect most of ad blockers.
